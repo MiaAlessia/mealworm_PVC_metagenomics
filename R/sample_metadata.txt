@@ -1,0 +1,13 @@
+	Read_count	Treatment	Plastic_treatment	Replicate
+bsPVC_R1	25.026584	bsPVC	PVC	A
+bsPVC_R2	42.290119	bsPVC	PVC	B
+bsPVC_R3	42.664045	bsPVC	PVC	C
+fPVC_R1	17.28047	fPVC	PVC	A
+fPVC_R2	22.417317	fPVC	PVC	B
+fPVC_R3	29.127484	fPVC	PVC	C
+standard_R1	76.168846	Standard	Standard	A
+standard_R2	59.705394	Standard	Standard	B
+standard_R3	95.768356	Standard	Standard	C
+control_R1	52.029246	Control	Control	A
+control_R2	53.332809	Control	Control	B
+control_R3	45.2069	Control	Control	C
