@@ -10,4 +10,4 @@ This folder contains the overall workflow (workflow.sh) and associated scripts r
 
 ## R
 
-This folder contains the overall workflow for all statistical analyses presented in the manuscript (Statistics.Rmd), as well as the required input files and an HTML file of the output.
+This folder contains the overall workflow for all statistical analyses presented in the manuscript (PVC_statistics.Rmd), as well as the required input files and an HTML file of the output.
