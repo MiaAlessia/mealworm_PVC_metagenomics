@@ -1,0 +1,12 @@
+pullseq -i metagenome_assemblies_100/bsPVC_R1/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/bsPVC_R1_2.5K.fasta
+pullseq -i metagenome_assemblies_100/bsPVC_R2/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/bsPVC_R2_2.5K.fasta
+pullseq -i metagenome_assemblies_100/bsPVC_R3/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/bsPVC_R3_2.5K.fasta
+pullseq -i metagenome_assemblies_100/fPVC_R1/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/fPVC_R1_2.5K.fasta
+pullseq -i metagenome_assemblies_100/fPVC_R2/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/fPVC_R2_2.5K.fasta
+pullseq -i metagenome_assemblies_100/fPVC_R3/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/fPVC_R3_2.5K.fasta
+pullseq -i metagenome_assemblies_100/standard_R1/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/standard_R1_2.5K.fasta
+pullseq -i metagenome_assemblies_100/standard_R2/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/standard_R2_2.5K.fasta
+pullseq -i metagenome_assemblies_100/standard_R3/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/standard_R3_2.5K.fasta
+pullseq -i metagenome_assemblies_100/control_R1/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/control_R1_2.5K.fasta
+pullseq -i metagenome_assemblies_100/control_R2/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/control_R2_2.5K.fasta
+pullseq -i metagenome_assemblies_100/control_R3/scaffolds.fasta -m 2500 > metagenome_assemblies_100/reduced_assemblies/control_R3_2.5K.fasta
